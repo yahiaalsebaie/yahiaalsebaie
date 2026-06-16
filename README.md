@@ -1,10 +1,10 @@
-<h1 align="left" id="yahia-title">:wave: Hello there! I'm Yahia Alsebaie</h1>
+<h1 align="left" id="yahia-title">:wave: Hello there! I'm Yahia Alsebaie | السلام عليكم! معكم يحيى السباعي</h1>
 <h3 align="left">Software Engineer / .NET & C++ Developer</h3>
 
 <p align="left">
-  <a href="https://github.com/yahiaalsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=blue" alt="page views" /></a>
-  <a href="https://github.com/yahiaalsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/badge/Followers-Profile-blue?style=flat&logo=github"></a>
-  <a href="https://www.linkedin.com/in/yahia-alsebaie"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yahiaalsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=0055ff&style=for-the-badge" alt="page views" /></a>
+  <a href="https://github.com/yahiaalsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/badge/FOLLOWERS-PROFILE-0055ff?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yahia-alsebaie"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
@@ -22,31 +22,37 @@
 
 <table>
   <tr>
-    <!-- C++ -->
+    <!-- C++ (Latest Modern Color Palette) -->
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
       <br>C++
     </td>
-    <!-- C# -->
+    <!-- C# (Official Modern Purple Logo) -->
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
       <br>C#
     </td>
-    <!-- .NET -->
+    <!-- .NET (Official Unified Microsoft Logo - Purple Gear) -->
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
       <br>.NET / WinForms
     </td>
-    <!-- SQL Server -->
+    <!-- Microsoft SQL Server (Latest Red/Crimson Corporate Logo) -->
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
       <br>SQL Server
     </td>
-    <!-- Git -->
+    <!-- Git (Official High-Contrast Orange Logo) -->
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
       <br>Git
     </td>
+    <!-- Visual Studio (Official Fluent Design Icon) -->
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio Community" />
+      <br>VS Community
+    </td>
+   
   </tr>
 </table>
 
