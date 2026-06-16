@@ -4,8 +4,8 @@
 <p align="left">
   <a href="https://github.com/Yahia-Alsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=blue" alt="page views" /></a>
   <a href="https://github.com/Yahia-Alsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/badge/Followers-Profile-blue?style=flat&logo=github"></a>
- <!-- <a href="https://github.com/Yahia-Alsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Yahia-Alsebaie?style=flat&logo=github"></a>
-</p> -->
+  <a href="https://www.linkedin.com/in/yahia-al-sebaie"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 
 - :seedling: &nbsp;Focused on **Problem Solving, Algorithms, and Data Structures**.
