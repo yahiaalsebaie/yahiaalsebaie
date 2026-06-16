@@ -2,9 +2,9 @@
 <h3 align="left">Software Engineer / .NET & C++ Developer</h3>
 
 <p align="left">
-  <a href="https://github.com/Yahia-Alsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=blue" alt="page views" /></a>
-  <a href="https://github.com/Yahia-Alsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/badge/Followers-Profile-blue?style=flat&logo=github"></a>
-  <a href="https://www.linkedin.com/in/yahia-al-sebaie"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yahiaalsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=blue" alt="page views" /></a>
+  <a href="https://github.com/yahiaalsebaie?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/badge/Followers-Profile-blue?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/yahia-alsebaie"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
