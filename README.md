@@ -49,9 +49,3 @@
 </table>
 
 <br>
-
-<h2 align="left">Key Projects</h2>
-
-- **[Math Game](https://github.com/Yahia-Alsebaie/math-game)**: A C++ console application focused on logic and clean functional programming.
-- **[Bank Project](https://github.com/Yahia-Alsebaie/bank-project)**: A practical system demonstrating OOP principles, data handling, and structural architecture.
-- **[Electronic Invoice System](https://github.com/Yahia-Alsebaie/invoice-system)**: A management system showcasing business logic implementation and database communication.
