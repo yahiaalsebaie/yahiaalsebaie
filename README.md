@@ -1,5 +1,5 @@
 <h1 align="left" id="yahia-title">:wave: Hello there! I'm Yahia Alsebaie | السلام عليكم! معكم يحيى السباعي</h1>
-<h3 align="left">Software Engineer / .NET & C++ Developer</h3>
+<h3 align="left">Software Engineer / .NET C# & C++ Developer</h3>
 
 <p align="left">
   <a href="https://github.com/yahiaalsebaie"><img src="https://komarev.com/ghpvc/?username=Yahia-Alsebaie&color=0055ff&style=for-the-badge" alt="page views" /></a>
